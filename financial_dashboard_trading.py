@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 # 載入必要模組
 import os
 #import haohaninfo
