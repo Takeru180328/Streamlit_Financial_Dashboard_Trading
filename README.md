@@ -1,2 +1,2 @@
-# Streamlit_Financial_Dashboard_Trading
+# 金融看板與程式交易平台
 Streamlit Financial Dashboard and Program Trading
